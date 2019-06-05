@@ -1,0 +1,28 @@
+{
+  "name": "ibraheem_adeyemo",
+  "version": "1.0.0",
+  "description": "my personal website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node node_modules/.bin/http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ibraheem-adeyemo/senior.git"
+  },
+  "keywords": [
+    "portfolio",
+    "personal",
+    "website"
+  ],
+  "author": "ibraheem adeyemo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ibraheem-adeyemo/senior/issues"
+  },
+  "homepage": "https://github.com/Ibraheem-adeyemo/senior#readme",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
