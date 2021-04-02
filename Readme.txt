@@ -1,69 +1,21 @@
-Features:
-- 3 Background Styles (Image, Color, Particles, Video)
-- 6 Color Schemes
-- 4 Types Portfolio: Image, Inline, Iframe(YouTube, Vimeo) and Audio(SoundCloud)
-- Awesome Portfolio with filters
-- Easy to Customize: Colors, Fonts, Content etc..
-- HTML5, CSS3 & jQuery powered
-- Fully Responsive
-- Valid, Clean and Commented code
-- Cross browser
-- Minimal and Clean
-- LESS CSS Included
-- Fully Working Contact Form PHP
-- Blog Post Page
-- 20+ Popular Social Icons
-- 200+ Fonts Icons
-- LineAwesome Icons
-- Google Fonts
-- Google Maps
-- jQuery Validation Plugin
-- CSS3 Animations
-- Pricing Tables
-- Regular Updates
-- RTL Version Support Included
-- 24/7 Support
-- Documentation included
+# Build sample portfolio website with html css, bootstrap and JQuery
+
+This repository contains code for portfolio project.
+
+View Demo:
+https://ibraheemadeyemo.herokuapp.com/
+
+## To run the project locally, kindly clone the repo and run npm install and then npm start
 
 
---------------------------------------
+## Available Scripts
 
+In the project directory, you can run:
 
-Icons used:
+### `npm start`
 
-- LineAwesome - https://icons8.com/line-awesome
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-
---------------------------------------
-
-
-Free Google Fonts used:
-
-- Google Fonts, Poppins
-- Google Fonts, Cormorant Garamond
-
-
---------------------------------------
-
-
-Sourse & Credits:
-
-LineAwesome - https://icons8.com/line-awesome
-Animate.css - https://daneden.github.io/animate.css/
-jQuery - https://jquery.com/
-Masonry - https://masonry.desandro.com/
-Masonry Filter - https://github.com/dynamick/multiple-filter-masonry
-imagesLoaded - http://imagesloaded.desandro.com/
-jQuery Validation Plugin - http://jqueryvalidation.org/
-Magnific Popup - http://dimsemenov.com/plugins/magnific-popup/
-SimpleBar - https://grsmto.github.io/simplebar/
-Typed.js - www.mattboldt.com
-jquery.mb.YTPlayer- https://github.com/pupunzi/jquery.mb.YTPlayer
---------------------------------------
-
-
-Photos Credits:
-
-- https://unsplash.com/
-- http://graphicburger.com/
-
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
